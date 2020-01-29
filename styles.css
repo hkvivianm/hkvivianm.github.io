@@ -1,0 +1,103 @@
+body{
+    font-family: 'Sintony', sans-serif;
+    color: darkslategrey;
+}
+h1, .display-4{
+    font-size: 40px;
+    font-weight: 500;
+    color: white;
+    font-family: 'Kalam', cursive; 
+}
+h2{
+    font-size: 50px;
+    font-weight: 500;
+    color: darkmagenta;
+    font-family: 'Kalam', cursive;    
+}
+h3{
+    color:rgb(27, 135, 141);
+    font-size: 18px;
+    font-weight: 800;
+}
+
+h4{
+    color:rgb(49, 0, 128);
+    font-weight: 800;
+}
+
+h5{
+    color: rgb(116, 0, 139);
+    font-weight: 800;
+    font-size: 18px;
+}
+.navbar-brand{
+    font-size: 40px;
+    font-family: 'Finger Paint', cursive;
+    }
+
+.navbar-light .navbar-brand {
+    color: rgba(59, 12, 97, 0.726);
+    }
+
+.nav-item{
+    font-size: 20px;
+  
+}
+
+.jumbotron{
+    background-attachment: fixed;
+    background-image: url(NU02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+   
+    color: white;
+    text-shadow: 1px 1px 1px black;
+   
+    font-family: 'Kalam', cursive; 
+}
+
+.jumbotronsolution{
+    background-attachment: fixed;
+    background-image: url(parkinglot.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+   
+    color: white;
+    text-shadow: 1px 1px 1px black;
+   
+    font-family: 'Kalam', cursive; 
+}
+
+.Action_items {
+    background-color: #c9f8f5;
+  }
+
+.Teamintro {
+    background-color: #e8daf8;
+  }
+
+.Bio img {
+    width: 105px;
+    height: 105px;
+  }
+
+.App img {
+    width:150px;
+    height: 250px;
+  }
+
+.App2 img {
+    width:130px;
+    height: 250px;
+    border-radius: 0.5cm;
+  }
+
+.App3 img {
+    width:340px;
+    height: 250px;
+}
+/* font-family: 'Permanent Marker', cursive;
+font-family: 'Kalam', cursive;
+font-family: 'Sintony', sans-serif;
+font-family: 'Finger Paint', cursive; */
+
